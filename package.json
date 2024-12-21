@@ -1,0 +1,39 @@
+{
+  "name": "shield-storage",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A lightweight library for securing localStorage and sessionStorage with AES encryption, ensuring sensitive data is protected and accessible only to authorized users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  
+  "keywords": [
+    "secure storage",
+    "localStorage encryption",
+    "sessionStorage encryption",
+    "encrypted storage",
+    "AES encryption",
+    "data protection",
+    "secure localStorage",
+    "secure sessionStorage",
+    "storage security",
+    "secure web applications",
+    "JavaScript encryption",
+    "secure data",
+    "web storage encryption",
+    "data encryption",
+    "privacy",
+    "secure frontend storage",
+    "frontend security",
+    "browser storage"
+  ],
+  "author": "Rishabh Verma",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
