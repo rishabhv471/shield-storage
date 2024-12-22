@@ -1,9 +1,10 @@
 {
   "name": "shield-storage",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "description": "A lightweight library for securing localStorage and sessionStorage with AES encryption, ensuring sensitive data is protected and accessible only to authorized users.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "jest"
   },
